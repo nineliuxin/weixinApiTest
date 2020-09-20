@@ -1,0 +1,37 @@
+token_info_list:
+  corpid: ww8ade169ed1aa14a6
+  corpsecret:
+    get_contact_token:
+      token_name: contact_token
+      sercret: 7B3Zf3knG0qCC9Xd_EVajWQu8YiFeHx1kcpD3-uzHX4
+    get_client_token:
+      token_name: client_token
+      sercret: wtal05p6KOkmPZdfJzD2AWV4xacrqLfj1uiD4kbY34I
+    get_selfbulit_app_token:
+      token_name: selfbulit_app_token
+      sercret: PwAgSyf76lIot_cSINU-z5v_SwJV4n9woDzW3Xi7KPc
+    get_basic_schedule_token:
+      token_name: basic_schedule_token
+      sercret: vUX1s7sE3UMtzL1c84Ezz-6RydbVMuH9lEnFebel9v8
+    get_basic_meetingroom_token:
+      token_name: basic_meetingroom_token
+      sercret: Hvxpxckdzm5QCOPsjsRqWLZVcq6iNdO8bs7GL139_xo
+    get_basic_publiccall_token:
+      token_name: basic_publiccall_token
+      sercret: rUrRgYeFD-XdSYdUa1axv4OU9BWaNMhr2Z-1gkOhe4w
+    get_basic_live_token:
+      token_name: basic_live_token
+      sercret: TNYfhW2ZwHa78BL3Y0SxP3K9A4OUzoe4x-teHE9_dXE
+    get_basic_clockin_token:
+      token_name: basic_clockin_token
+      sercret: p6eDYpC5ITor--gUA-xmJZNDytaymtjh89n45kGXFpA
+    get_basic_approval_token:
+      token_name: basic_approval_token
+      sercret: _bRkKbDfeWzauzRTrED9arj3uDrGOPxdqnVrwxrWvp4
+    get_basic_healthreport_token:
+      token_name: basic_healthreport_token
+      sercret: UwyTUM1N2vhLTLEqvyHkAbWWwXIR87aR1cKlJOYvcng
+    get_basic_businesspay_token:
+      token_name: basic_businesspay_token
+      sercret: Dw-0ls09mIyCI7sdRDtyTGwDOAaPEICU6tfBpx2ssDU
+  token_url: https://qyapi.weixin.qq.com/cgi-bin/gettoken
